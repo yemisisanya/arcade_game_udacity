@@ -24,4 +24,4 @@ To win the game, the player must collect all collectibles (stars) and reach the 
 
  
 
-You can play the game [here](https://yemisisanya.github.io/arcade_game_udacity/index.html). Also, the game can be installed on your local machine by clicking the download or clone button on the right.
+You can play the game [here](https://yemisisanya.github.io/arcade_game_udacity). Also, the game can be installed on your local machine by clicking the download or clone button on the right.
