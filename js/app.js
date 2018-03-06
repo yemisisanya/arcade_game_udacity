@@ -89,7 +89,7 @@ Player.prototype.win = function() {
         this.lives = 3;
         this.score = 0;
         allStars = [stars, stars1, stars2];
-
+        allExtralives = [extralife];
 
     } else if (this.y <= 0 && allStars.length !== 0) {
         this.reset();
@@ -110,10 +110,10 @@ Player.prototype.gameOver = function() {
 
         this.lives = 3;
         this.score = 0;
-
+        
         allStars = [stars, stars1, stars2];
         //this.level=1;
-
+        allExtralives = [extralife];
     }
 };
 //renders the player to the page
